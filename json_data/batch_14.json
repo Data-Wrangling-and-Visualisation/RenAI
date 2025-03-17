@@ -1,0 +1,6750 @@
+[
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15502,
+        "isHighlight": false,
+        "accessionNumber": "50.130.143d verso",
+        "accessionYear": "1950",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162377,
+                "role": "Artist",
+                "name": "John Singer Sargent",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023972",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q155626",
+                "gender": ""
+            },
+            {
+                "constituentID": 162547,
+                "role": "Artist",
+                "name": "After Jacopo Tintoretto (Jacopo Robusti)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011407",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9319",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Paradise, Detail",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "John Singer Sargent",
+        "artistDisplayBio": "American, Florence 1856–1925 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Sargent, John Singer",
+        "artistNationality": "American",
+        "artistBeginDate": "1856",
+        "artistEndDate": "1925",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q155626",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023972",
+        "objectDate": "ca. 1874–78",
+        "objectBeginDate": 1874,
+        "objectEndDate": 1878,
+        "medium": "Graphite on off-white wove paper",
+        "dimensions": "3 1/2 x 5 7/8 in. (8.9 x 14.9 cm)",
+        "measurements": null,
+        "creditLine": "Gift of Mrs. Francis Ormond, 1950",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15502",
+        "tags": [
+            {
+                "term": "Human Figures",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 15846,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4ddd recto",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/261400.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/261400.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Sketches of Trees (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": null,
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15846",
+        "tags": [
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14444,
+        "isHighlight": false,
+        "accessionNumber": "1977.183.1",
+        "accessionYear": "1977",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 3340,
+                "role": "Artist",
+                "name": "Annie Traquair Lang",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331529",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21985219",
+                "gender": "Female"
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Painting",
+        "title": "William Merritt Chase",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Annie Traquair Lang",
+        "artistDisplayBio": "1885–1918",
+        "artistSuffix": "",
+        "artistAlphaSort": "Lang, Annie Traquair",
+        "artistNationality": "American",
+        "artistBeginDate": "1885",
+        "artistEndDate": "1918",
+        "artistGender": "Female",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21985219",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500331529",
+        "objectDate": "ca. 1910",
+        "objectBeginDate": 1907,
+        "objectEndDate": 1910,
+        "medium": "Oil on canvas",
+        "dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 7.6,
+                    "Height": 91.8,
+                    "Width": 79.1
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 76.2,
+                    "Width": 63.5
+                }
+            }
+        ],
+        "creditLine": "Gift of Margaret and Raymond J. Horowitz, 1977",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14444",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19924660",
+        "isTimelineWork": false,
+        "GalleryNumber": "774"
+    },
+    {
+        "objectID": 14828,
+        "isHighlight": false,
+        "accessionNumber": "1994.46a, b",
+        "accessionYear": "1994",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT3673.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT3673.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/ADA103.jpg",
+            "https://images.metmuseum.org/CRDImages/ad/original/257664.jpg",
+            "https://images.metmuseum.org/CRDImages/ad/original/ADA2587.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 1101,
+                "role": "Maker",
+                "name": "Ott and Brewer",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Potpourri vase",
+        "title": "Covered potpourri vase",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Maker",
+        "artistPrefix": "",
+        "artistDisplayName": "Ott and Brewer",
+        "artistDisplayBio": "American, Trenton, New Jersey, 1871–1893",
+        "artistSuffix": "",
+        "artistAlphaSort": "Ott and Brewer",
+        "artistNationality": "American",
+        "artistBeginDate": "1871",
+        "artistEndDate": "1893",
+        "artistGender": "",
+        "artistWikidata_URL": "",
+        "artistULAN_URL": "",
+        "objectDate": "1884–90",
+        "objectBeginDate": 1884,
+        "objectEndDate": 1890,
+        "medium": "Porcelain",
+        "dimensions": "H. 13 1/2 in. (34.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 34.3
+                }
+            }
+        ],
+        "creditLine": "Purchase, Barrie A. and Deedee Wigmore Foundation Gift, 1994",
+        "geographyType": "Made in",
+        "city": "Trenton",
+        "state": "New Jersey",
+        "county": "",
+        "country": "United States",
+        "region": "Mid-Atlantic",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14828",
+        "tags": null,
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116329854",
+        "isTimelineWork": false,
+        "GalleryNumber": "706"
+    },
+    {
+        "objectID": 15458,
+        "isHighlight": false,
+        "accessionNumber": "50.130.148z",
+        "accessionYear": "1950",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162377,
+                "role": "Artist",
+                "name": "John Singer Sargent",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023972",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q155626",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Mountains (from Switzerland 1870 Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "John Singer Sargent",
+        "artistDisplayBio": "American, Florence 1856–1925 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Sargent, John Singer",
+        "artistNationality": "American",
+        "artistBeginDate": "1856",
+        "artistEndDate": "1925",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q155626",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500023972",
+        "objectDate": "1870",
+        "objectBeginDate": 1870,
+        "objectEndDate": 1870,
+        "medium": "Graphite on off-white wove paper",
+        "dimensions": "8 x 11 1/8 in. (20.3 x 28.3 cm)",
+        "measurements": null,
+        "creditLine": "Gift of Mrs. Francis Ormond, 1950",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15458",
+        "tags": [
+            {
+                "term": "Mountains",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14624,
+        "isHighlight": false,
+        "accessionNumber": "08.5.3b",
+        "accessionYear": "1908",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 163181,
+                "role": "Artist",
+                "name": "Victor David Brenner",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500090981",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5762066",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Carl Schurz",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Victor David Brenner",
+        "artistDisplayBio": "American, born Šiauliai, Lithuania (Shavli, Russian Empire) 1871–1924 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Brenner, Victor David",
+        "artistNationality": "American, born Lithuania",
+        "artistBeginDate": "1871",
+        "artistEndDate": "1924",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5762066",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500090981",
+        "objectDate": "1907",
+        "objectBeginDate": 1907,
+        "objectEndDate": 1907,
+        "medium": "Bronze",
+        "dimensions": "3 x 2 1/8 in. (7.6 x 5.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 7.6,
+                    "Width": 5.4
+                }
+            }
+        ],
+        "creditLine": "Gift of the sculptor, 1908",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14624",
+        "tags": [
+            {
+                "term": "Male Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 13163,
+        "isHighlight": false,
+        "accessionNumber": "06.319",
+        "accessionYear": "1906",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/06.319(A).jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/06.319(A).jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 3005,
+                "role": "Artist",
+                "name": "Olin Levi Warner",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001669",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7086914",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medallion",
+        "title": "Young Chief, Cayuse Indian",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Olin Levi Warner",
+        "artistDisplayBio": "American, West Suffield, Connecticut 1844–1896 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Warner, Olin Levi",
+        "artistNationality": "American",
+        "artistBeginDate": "1844",
+        "artistEndDate": "1896",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q7086914",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001669",
+        "objectDate": "1891; cast 1906",
+        "objectBeginDate": 1891,
+        "objectEndDate": 1906,
+        "medium": "Bronze",
+        "dimensions": "Diam. 7 3/8 in. (18.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Other",
+                "elementDescription": "Object diameter",
+                "elementMeasurements": {
+                    "Diameter": 18.7
+                }
+            }
+        ],
+        "creditLine": "Gift of Mr. and Mrs. Frederick S. Wait, 1906",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13163",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116377947",
+        "isTimelineWork": false,
+        "GalleryNumber": "774"
+    },
+    {
+        "objectID": 15753,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4h verso",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/260771.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/260771.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/260773.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Landscape with Mountains and Hills (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15753",
+        "tags": [
+            {
+                "term": "Hills",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+            },
+            {
+                "term": "Mountains",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14675,
+        "isHighlight": false,
+        "accessionNumber": "09.115",
+        "accessionYear": "1909",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/AW_09_115-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/AW_09_115-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/AW_09_115-002.jpg",
+            "https://images.metmuseum.org/CRDImages/ad/original/136502.jpg",
+            "https://images.metmuseum.org/CRDImages/ad/original/136501.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 1692,
+                "role": "Artist",
+                "name": "Anthony Paquet",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Major General Ulysses S. Grant",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Anthony Paquet",
+        "artistDisplayBio": "1814–1882",
+        "artistSuffix": "",
+        "artistAlphaSort": "Paquet, Anthony",
+        "artistNationality": "American",
+        "artistBeginDate": "1814",
+        "artistEndDate": "1882",
+        "artistGender": "",
+        "artistWikidata_URL": "",
+        "artistULAN_URL": "",
+        "objectDate": "",
+        "objectBeginDate": 1848,
+        "objectEndDate": 1882,
+        "medium": "Bronze",
+        "dimensions": "Diam. 4 in. (10.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Other",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Diameter": 10.16
+                }
+            }
+        ],
+        "creditLine": "Gift of Miss Susanna Antrobus, 1909",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14675",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14785,
+        "isHighlight": false,
+        "accessionNumber": "39.131",
+        "accessionYear": "1939",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": null,
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Sesquicentennial of Washington's Inauguration",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "",
+        "artistPrefix": "",
+        "artistDisplayName": "",
+        "artistDisplayBio": "",
+        "artistSuffix": "",
+        "artistAlphaSort": "",
+        "artistNationality": "",
+        "artistBeginDate": "",
+        "artistEndDate": "",
+        "artistGender": "",
+        "artistWikidata_URL": "",
+        "artistULAN_URL": "",
+        "objectDate": "1939",
+        "objectBeginDate": 1939,
+        "objectEndDate": 1939,
+        "medium": "Bronze",
+        "dimensions": "Diam. 2 3/8 in. (6 cm)",
+        "measurements": [
+            {
+                "elementName": "Other",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Diameter": 6.0325
+                }
+            }
+        ],
+        "creditLine": "Gift of the American Numismatic Society (through Sydney P. Noc), 1939",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14785",
+        "tags": [
+            {
+                "term": "George Washington",
+                "AAT_URL": "http://vocab.getty.edu/page/ulan/500126198",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q23"
+            },
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14591,
+        "isHighlight": false,
+        "accessionNumber": "07.125.4",
+        "accessionYear": "1907",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 163181,
+                "role": "Artist",
+                "name": "Victor David Brenner",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500090981",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5762066",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Rene",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Victor David Brenner",
+        "artistDisplayBio": "American, born Šiauliai, Lithuania (Shavli, Russian Empire) 1871–1924 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Brenner, Victor David",
+        "artistNationality": "American, born Lithuania",
+        "artistBeginDate": "1871",
+        "artistEndDate": "1924",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5762066",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500090981",
+        "objectDate": "1899",
+        "objectBeginDate": 1899,
+        "objectEndDate": 1899,
+        "medium": "Bronze",
+        "dimensions": "4 1/8 x 3 3/8 in. (10.5 x 8.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 10.5,
+                    "Width": 8.6
+                }
+            }
+        ],
+        "creditLine": "Anonymous gift (through F. S. Wait), 1907",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14591",
+        "tags": [
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Boys",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14463,
+        "isHighlight": false,
+        "accessionNumber": "1992.123.1",
+        "accessionYear": "1992",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 166298,
+                "role": "Maker",
+                "name": "Robert Graves &amp; Co.",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Wallpaper",
+        "title": "Wallpaper",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Maker",
+        "artistPrefix": "",
+        "artistDisplayName": "Robert Graves & Co.",
+        "artistDisplayBio": "American, Brooklyn, New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Graves, Robert, & Co.",
+        "artistNationality": "American",
+        "artistBeginDate": "",
+        "artistEndDate": "",
+        "artistGender": "",
+        "artistWikidata_URL": "",
+        "artistULAN_URL": "",
+        "objectDate": "ca. 1880",
+        "objectBeginDate": 1877,
+        "objectEndDate": 1880,
+        "medium": "Paper",
+        "dimensions": "42 ft. x 18 in. (504 in. x 45.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 1280.1626,
+                    "Width": 45.7
+                }
+            }
+        ],
+        "creditLine": "Friends of the American Wing Fund, 1992",
+        "geographyType": "Made in",
+        "city": "New York",
+        "state": "New York",
+        "county": "",
+        "country": "United States",
+        "region": "Mid-Atlantic",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14463",
+        "tags": null,
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 14819,
+        "isHighlight": false,
+        "accessionNumber": "34.82.1",
+        "accessionYear": "1934",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 163741,
+                "role": "Artist",
+                "name": "Evelyn Beatrice Longman",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017112",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q431475",
+                "gender": "Female"
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Mr. and Mrs. Robert W. de Forest",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Evelyn Beatrice Longman",
+        "artistDisplayBio": "American, Winchester, Ohio 1874–1954 Osterville, Massachusetts",
+        "artistSuffix": "",
+        "artistAlphaSort": "Longman, Evelyn Beatrice",
+        "artistNationality": "American",
+        "artistBeginDate": "1874",
+        "artistEndDate": "1954",
+        "artistGender": "Female",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q431475",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500017112",
+        "objectDate": "1922",
+        "objectBeginDate": 1922,
+        "objectEndDate": 1922,
+        "medium": "Bronze and gold leaf",
+        "dimensions": "Diam. 5 1/2 in. (14 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Diameter": 13.970028
+                }
+            },
+            {
+                "elementName": "Other",
+                "elementDescription": "wood plaque mount",
+                "elementMeasurements": {
+                    "Depth": 2.2225044,
+                    "Height": 28.575058,
+                    "Width": 20.796291
+                }
+            }
+        ],
+        "creditLine": "Gift of Mrs. Robert W. de Forest, 1934",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14819",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q98224626",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 14718,
+        "isHighlight": false,
+        "accessionNumber": "14.128",
+        "accessionYear": "1914",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 3370,
+                "role": "Artist",
+                "name": "H. S.",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Centennial of the \"Star-Spangled Banner\"",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "H. S.",
+        "artistDisplayBio": "",
+        "artistSuffix": "",
+        "artistAlphaSort": "H., S.",
+        "artistNationality": "American",
+        "artistBeginDate": "",
+        "artistEndDate": "9999",
+        "artistGender": "",
+        "artistWikidata_URL": "",
+        "artistULAN_URL": "",
+        "objectDate": "1914",
+        "objectBeginDate": 1914,
+        "objectEndDate": 1914,
+        "medium": "Bronze",
+        "dimensions": "Diam. 2 in. (5.1 cm)",
+        "measurements": null,
+        "creditLine": "Gift of the Star-Spangled Banner Association (through Mayor James H.  Preton), 1914",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14718",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15749,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4f verso",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/260766.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/260766.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Pond and Wild Terrain, Autumn (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15749",
+        "tags": [
+            {
+                "term": "Ponds",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008688",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3253281"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13225,
+        "isHighlight": false,
+        "accessionNumber": "09.222",
+        "accessionYear": "1909",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap09.222.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/ap09.222.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/DT302480.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Painting",
+        "title": "Edward Guthrie Kennedy",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "1893–95",
+        "objectBeginDate": 1893,
+        "objectEndDate": 1895,
+        "medium": "Oil on wood",
+        "dimensions": "11 5/8 x 7 in. (29.4 x 17.8 cm)",
+        "measurements": null,
+        "creditLine": "Gift of Edward G. Kennedy, 1909",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13225",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19924041",
+        "isTimelineWork": false,
+        "GalleryNumber": "774"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14462,
+        "isHighlight": false,
+        "accessionNumber": "26.216.73",
+        "accessionYear": "1926",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/65073.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/65073.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/ap26.216.73.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 166243,
+                "role": "Artist",
+                "name": "Thomas Sidney Cooper",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024232",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1333386",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Study of a Boy (from McGuire Scrapbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Thomas Sidney Cooper",
+        "artistDisplayBio": "British, Canterbury, Kent 1803–1902 Harbledown",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cooper, Thomas Sidney",
+        "artistNationality": "British",
+        "artistBeginDate": "1803",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q1333386",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024232",
+        "objectDate": "",
+        "objectBeginDate": 1803,
+        "objectEndDate": 1902,
+        "medium": "Graphite on off-white wove paper",
+        "dimensions": "4 1/4 x 3 5/8 in. (10.8 x 9.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 10.8,
+                    "Width": 9.2075
+                }
+            }
+        ],
+        "creditLine": "Gift of James C. McGuire, 1926",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "England",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14462",
+        "tags": [
+            {
+                "term": "Boys",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 14719,
+        "isHighlight": false,
+        "accessionNumber": "16.56",
+        "accessionYear": "1916",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 3371,
+                "role": "Artist",
+                "name": "J. F. Newman",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Commemorating the Three-Hundredth Anniversary of the Establishment of the Dutch on Manhattan",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "J. F. Newman",
+        "artistDisplayBio": "",
+        "artistSuffix": "",
+        "artistAlphaSort": "Newman, J. F.",
+        "artistNationality": "American",
+        "artistBeginDate": "",
+        "artistEndDate": "9999",
+        "artistGender": "",
+        "artistWikidata_URL": "",
+        "artistULAN_URL": "",
+        "objectDate": "1915",
+        "objectBeginDate": 1915,
+        "objectEndDate": 1915,
+        "medium": "Bronze",
+        "dimensions": "Diam. 3 in. (7.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Other",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Diameter": 7.62
+                }
+            }
+        ],
+        "creditLine": "Gift of the Holland Society of New York, 1916",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14719",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Coat of Arms",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 14453,
+        "isHighlight": false,
+        "accessionNumber": "1992.136.2",
+        "accessionYear": "1992",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1992.136.2.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/ap1992.136.2.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/256695.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162614,
+                "role": "Artist",
+                "name": "Elihu Vedder",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032587",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q389726",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "The Fable of the Miller, His Son and the Donkey  No. 2",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Elihu Vedder",
+        "artistDisplayBio": "American, New York 1836–1923 Rome",
+        "artistSuffix": "",
+        "artistAlphaSort": "Vedder, Elihu",
+        "artistNationality": "American",
+        "artistBeginDate": "1836",
+        "artistEndDate": "1923",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q389726",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032587",
+        "objectDate": "1860–61",
+        "objectBeginDate": 1860,
+        "objectEndDate": 1860,
+        "medium": "Graphite on paper",
+        "dimensions": "3 5/16 x 5 7/8 in. (8.4 x 14.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 8.4,
+                    "Width": 14.9225
+                }
+            }
+        ],
+        "creditLine": "Purchase, Gifts in memory of Stephen D. Rubin, 1992",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14453",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Donkeys",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13229,
+        "isHighlight": false,
+        "accessionNumber": "1970.121.10",
+        "accessionYear": "1970",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Flight of Xerxes (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "1843",
+        "objectBeginDate": 1843,
+        "objectEndDate": 1843,
+        "medium": "Graphite on off-white wove paper",
+        "dimensions": "4 x 5 13/16 in. (10.2 x 14.8 cm)",
+        "measurements": null,
+        "creditLine": "Gift of Margaret C. Buell, Helen L. King, and Sybil A. Walk, 1970",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13229",
+        "tags": null,
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13228,
+        "isHighlight": false,
+        "accessionNumber": "1970.121.32",
+        "accessionYear": "1970",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/199561.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/199561.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Figure in Bed (Sick or Drunk) (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "1854–55",
+        "objectBeginDate": 1854,
+        "objectEndDate": 1855,
+        "medium": "Brown ink and graphite on off-white wove paper",
+        "dimensions": "2 3/16 x 3 3/4 in. (5.6 x 9.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 5.6,
+                    "Width": 9.525
+                }
+            }
+        ],
+        "creditLine": "Gift of Margaret C. Buell, Helen L. King, and Sybil A. Walk, 1970",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13228",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14620,
+        "isHighlight": false,
+        "accessionNumber": "08.4.1",
+        "accessionYear": "1908",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/AW_08_4_1-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/AW_08_4_1-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/AW_08_4_1-002.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 1800,
+                "role": "Artist",
+                "name": "Charles Cushing Wright",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q58816288",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Louisiana to General Zachary Taylor",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Charles Cushing Wright",
+        "artistDisplayBio": "",
+        "artistSuffix": "",
+        "artistAlphaSort": "Wright, Charles Cushing",
+        "artistNationality": "American",
+        "artistBeginDate": "1796",
+        "artistEndDate": "1854",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q58816288",
+        "artistULAN_URL": "",
+        "objectDate": "",
+        "objectBeginDate": 1800,
+        "objectEndDate": 1854,
+        "medium": "Bronze",
+        "dimensions": "Diam. 3 in. (7.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Other",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Diameter": 7.62
+                }
+            }
+        ],
+        "creditLine": "Gift of Mr. and Mrs. Frederick S. Wait, 1908",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14620",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Horses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+            },
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            },
+            {
+                "term": "Flags",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300195678",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q14660"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13187,
+        "isHighlight": false,
+        "accessionNumber": "10.54",
+        "accessionYear": "1910",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap10.54.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/ap10.54.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162708,
+                "role": "Artist",
+                "name": "Robert Walter Weir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032615",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3695965",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Painting",
+        "title": "General Winfield Scott",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Robert Walter Weir",
+        "artistDisplayBio": "American, New Rochelle, New York 1803–1889 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Weir, Robert Walter",
+        "artistNationality": "American",
+        "artistBeginDate": "1803",
+        "artistEndDate": "1889",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3695965",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500032615",
+        "objectDate": "ca. 1855",
+        "objectBeginDate": 1852,
+        "objectEndDate": 1855,
+        "medium": "Oil on canvas",
+        "dimensions": "33 3/4 x 26 7/8 in. (85.7 x 68.3 cm)",
+        "measurements": null,
+        "creditLine": "Gift of the heirs of William B. Isham, 1910",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13187",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Generals",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300236762",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q83460"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19923769",
+        "isTimelineWork": false,
+        "GalleryNumber": "774"
+    },
+    {
+        "objectID": 14747,
+        "isHighlight": false,
+        "accessionNumber": "17.155.1",
+        "accessionYear": "1917",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161903,
+                "role": "Artist",
+                "name": "Daniel Chester French",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009434",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q720910",
+                "gender": ""
+            },
+            {
+                "constituentID": 7566,
+                "role": "Artist",
+                "name": "Augustus Lukeman",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024190",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q770495",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "Catskill Aqueduct",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Daniel Chester French",
+        "artistDisplayBio": "American, Exeter, New Hampshire 1850–1931 Stockbridge, Massachusetts",
+        "artistSuffix": "",
+        "artistAlphaSort": "French, Daniel Chester",
+        "artistNationality": "American",
+        "artistBeginDate": "1850",
+        "artistEndDate": "1931",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q720910",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500009434",
+        "objectDate": "1917",
+        "objectBeginDate": 1917,
+        "objectEndDate": 1917,
+        "medium": "Bronze",
+        "dimensions": "Diam. 3 in. (7.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Other",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Diameter": 7.62
+                }
+            }
+        ],
+        "creditLine": "Gift of Robert W. de Forest, 1917",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14747",
+        "tags": [
+            {
+                "term": "Male Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            },
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q83559944",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15768,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4p recto",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/260792.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/260792.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Mountain Landscape with Trees (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15768",
+        "tags": [
+            {
+                "term": "Mountains",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13192,
+        "isHighlight": false,
+        "accessionNumber": "57.90.2",
+        "accessionYear": "1957",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 3016,
+                "role": "Artist",
+                "name": "Mabel R. Welch",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500052062",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21705894",
+                "gender": "Female"
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Painting, miniature",
+        "title": "Portrait of a Lady",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Mabel R. Welch",
+        "artistDisplayBio": "1871–1958",
+        "artistSuffix": "",
+        "artistAlphaSort": "Welch, Mabel R.",
+        "artistNationality": "American",
+        "artistBeginDate": "1871",
+        "artistEndDate": "1958",
+        "artistGender": "Female",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21705894",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500052062",
+        "objectDate": "1910–15",
+        "objectBeginDate": 1910,
+        "objectEndDate": 1915,
+        "medium": "Watercolor on ivory",
+        "dimensions": "Sight: 2 5/16 x 1 15/16 in. (5.9 x 4.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Sight",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 5.8738,
+                    "Width": 4.9213
+                }
+            }
+        ],
+        "creditLine": "Bequest of Mary McMillan, 1956",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13192",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19924447",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13245,
+        "isHighlight": true,
+        "accessionNumber": "06.312",
+        "accessionYear": "1906",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT11607.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT11607.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/ap06.312.jpg",
+            "https://images.metmuseum.org/CRDImages/ad/original/APS2545.jpg",
+            "https://images.metmuseum.org/CRDImages/ad/original/112.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Watercolor",
+        "title": "Lady in Gray",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "ca. 1883",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1883,
+        "medium": "Watercolor and gouache on dark brown wove paper",
+        "dimensions": "11 1/4 x 5 in. (28.6 x 12.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 7,
+                    "Height": 48.2601,
+                    "Width": 33.7
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 28.6,
+                    "Width": 12.7
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1906",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13245",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20171913",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14553,
+        "isHighlight": false,
+        "accessionNumber": "07.251.96b",
+        "accessionYear": "1907",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/AW_07_251_96b-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/AW_07_251_96b-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/AW_07_251_96b-002.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 165464,
+                "role": "Maker",
+                "name": "Ball, Black &amp; Co.",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524481",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            },
+            {
+                "constituentID": 204478,
+                "role": "Maker",
+                "name": "S &amp; M",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Medal",
+        "title": "John C. Fremont visit to America",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Maker",
+        "artistPrefix": "",
+        "artistDisplayName": "Ball, Black & Co.",
+        "artistDisplayBio": "American, New York, 1851–1874",
+        "artistSuffix": "",
+        "artistAlphaSort": "Ball, Black & Co.",
+        "artistNationality": "American",
+        "artistBeginDate": "1851",
+        "artistEndDate": "1874",
+        "artistGender": "",
+        "artistWikidata_URL": "",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500524481",
+        "objectDate": "1856",
+        "objectBeginDate": 1856,
+        "objectEndDate": 1856,
+        "medium": "White metal",
+        "dimensions": "Diam. 1 5/8 in. (4.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Other",
+                "elementDescription": "Object diameter",
+                "elementMeasurements": {
+                    "Diameter": 4.1
+                }
+            }
+        ],
+        "creditLine": "Gift of Mr. and Mrs. F. S. Wait, 1907",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14553",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13247,
+        "isHighlight": false,
+        "accessionNumber": "1970.121.24",
+        "accessionYear": "1970",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/199560.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/199560.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Leg (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "1854–55",
+        "objectBeginDate": 1854,
+        "objectEndDate": 1855,
+        "medium": "Black ink on brown wove paper",
+        "dimensions": "1 1/8 x 1 1/8 in. (2.9 x 2.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 2.9,
+                    "Width": 2.8575
+                }
+            }
+        ],
+        "creditLine": "Gift of Margaret C. Buell, Helen L. King, and Sybil A. Walk, 1970",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13247",
+        "tags": [
+            {
+                "term": "Feet",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300310200",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q15807"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15739,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4a",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/260753.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/260753.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Lake Nipissing (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15739",
+        "tags": [
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 14889,
+        "isHighlight": false,
+        "accessionNumber": "1987.196.3w",
+        "accessionYear": "1987",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/246943.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/246943.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161860,
+                "role": "Artist",
+                "name": "Francis William Edmonds",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026117",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3680885",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Cat; Seated Woman Leaning on a Table or Ledge (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Francis William Edmonds",
+        "artistDisplayBio": "American, Hudson, New York 1806–1863 Bronxville, New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Edmonds, Francis William",
+        "artistNationality": "American",
+        "artistBeginDate": "1806",
+        "artistEndDate": "1863",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q3680885",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500026117",
+        "objectDate": "ca. 1838 and after",
+        "objectBeginDate": 1835,
+        "objectEndDate": 1839,
+        "medium": "Graphite on off-white wove paper",
+        "dimensions": "6 5/8 x 8 in. (16.8 x 20.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 16.8,
+                    "Width": 20.32
+                }
+            }
+        ],
+        "creditLine": "Sheila and Richard J. Schwartz Fund, 1987",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/14889",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Cats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 15812,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4ll verso",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/261129.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/261129.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/261131.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Sketch of Landscape Near Mount Baker (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": null,
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15812",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15744,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4d recto",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/260758.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/260758.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/260759.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Bay Scene (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15744",
+        "tags": null,
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15595,
+        "isHighlight": false,
+        "accessionNumber": "1996.381",
+        "accessionYear": "1996",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP229746.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DP229746.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162665,
+                "role": "Maker",
+                "name": "Charles Volkmar",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500048251",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20963023",
+                "gender": ""
+            },
+            {
+                "constituentID": 1928,
+                "role": "Maker",
+                "name": "Volkmar Ceramic Company",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Vase",
+        "title": "Vase",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Maker",
+        "artistPrefix": "",
+        "artistDisplayName": "Charles Volkmar",
+        "artistDisplayBio": "American, Baltimore, Maryland 1841–1914 Metuchen, New Jersey",
+        "artistSuffix": "",
+        "artistAlphaSort": "Volkmar, Charles",
+        "artistNationality": "American",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1914",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q20963023",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500048251",
+        "objectDate": "1896–1902",
+        "objectBeginDate": 1896,
+        "objectEndDate": 1902,
+        "medium": "White earthenware",
+        "dimensions": "7 7/8 x 4 5/8 in. (20 x 11.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 20,
+                    "Width": 11.7
+                }
+            }
+        ],
+        "creditLine": "Gift of Dr. Clark S. Marlor, in memory of Warren Zerbe, 1996",
+        "geographyType": "Made in",
+        "city": "New York",
+        "state": "New York",
+        "county": "Queens",
+        "country": "United States",
+        "region": "Mid-Atlantic",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15595",
+        "tags": null,
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116328986",
+        "isTimelineWork": false,
+        "GalleryNumber": "774"
+    },
+    {
+        "objectID": 15793,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4bb verso",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/261104.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/261104.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Trees with Red Berries (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15793",
+        "tags": [
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15827,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4tt verso",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/261376.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/261376.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/261378.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Mountain Sketch (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15827",
+        "tags": [
+            {
+                "term": "Mountains",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15823,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4rr recto",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/261369.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/261369.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Sketches of Trees (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.065,
+                    "Width": 19.7
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15823",
+        "tags": [
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 13267,
+        "isHighlight": false,
+        "accessionNumber": "1970.121.47",
+        "accessionYear": "1970",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/193285.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/193285.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Monk (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "1854–55",
+        "objectBeginDate": 1854,
+        "objectEndDate": 1855,
+        "medium": "Brown ink on light brown wove paper",
+        "dimensions": "3 x 1 5/8 in. (7.6 x 4.1 cm)",
+        "measurements": null,
+        "creditLine": "Gift of Margaret C. Buell, Helen L. King, and Sybil A. Walk, 1970",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13267",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Monks",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13242,
+        "isHighlight": false,
+        "accessionNumber": "1970.121.49",
+        "accessionYear": "1970",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/193285.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/193285.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Watercolor",
+        "title": "Holding it for a \"Crack Shot!\" (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "1854–55",
+        "objectBeginDate": 1854,
+        "objectEndDate": 1855,
+        "medium": "Graphite, red watercolor and ink on off-white Bristol board",
+        "dimensions": "3 9/16 x 2 1/2 in. (9 x 6.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 9,
+                    "Width": 6.35
+                }
+            }
+        ],
+        "creditLine": "Gift of Margaret C. Buell, Helen L. King, and Sybil A. Walk, 1970",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13242",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13191,
+        "isHighlight": false,
+        "accessionNumber": "58.114",
+        "accessionYear": "1958",
+        "isPublicDomain": false,
+        "primaryImage": "",
+        "primaryImageSmall": "",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 3016,
+                "role": "Artist",
+                "name": "Mabel R. Welch",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500052062",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21705894",
+                "gender": "Female"
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Painting, miniature",
+        "title": "Mrs. S. Keith Evans",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Mabel R. Welch",
+        "artistDisplayBio": "1871–1958",
+        "artistSuffix": "",
+        "artistAlphaSort": "Welch, Mabel R.",
+        "artistNationality": "American",
+        "artistBeginDate": "1871",
+        "artistEndDate": "1958",
+        "artistGender": "Female",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q21705894",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500052062",
+        "objectDate": "ca. 1911",
+        "objectBeginDate": 1908,
+        "objectEndDate": 1911,
+        "medium": "Watercolor on ivory",
+        "dimensions": "Sight: Diam. 2 5/16 in. (5.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Sight",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Diameter": 5.8738
+                }
+            }
+        ],
+        "creditLine": "Gift of the artist, 1958",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2025-01-30T04:54:21.21Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13191",
+        "tags": [
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19924935",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15809,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4jj verso",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/261124.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/261124.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/261126.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Sketch of Mountains, Lake, and Canoe (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15809",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13270,
+        "isHighlight": false,
+        "accessionNumber": "40.91.6 recto",
+        "accessionYear": "1940",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/121652.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/121652.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Female Nude with a Fan",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "",
+        "objectBeginDate": 1834,
+        "objectEndDate": 1903,
+        "medium": "Conté crayon and white chalk on brown wove paper",
+        "dimensions": "11 1/4 x 7 1/8 in. (28.6 x 18.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 28.6,
+                    "Width": 18.0975
+                }
+            }
+        ],
+        "creditLine": "Gift of Harold K. Hochschild, 1940",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-27T04:42:00.93Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13270",
+        "tags": [
+            {
+                "term": "Fans",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300258857",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q193220"
+            },
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15819,
+        "isHighlight": false,
+        "accessionNumber": "1995.379.4pp recto",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/261364.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/261364.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ad/original/261365.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161685,
+                "role": "Artist",
+                "name": "Albert Bierstadt",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Sketches of Landscape Views after Leaving Seattle (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albert Bierstadt",
+        "artistDisplayBio": "American, Solingen 1830–1902 New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "Bierstadt, Albert",
+        "artistNationality": "American",
+        "artistBeginDate": "1830",
+        "artistEndDate": "1902",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Graphite on wove paper",
+        "dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.1,
+                    "Width": 19.685
+                }
+            }
+        ],
+        "creditLine": "Bequest of Marguerite H. Rohlfs, 1995",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15819",
+        "tags": [
+            {
+                "term": "Mountains",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 15506,
+        "isHighlight": false,
+        "accessionNumber": "1982.217.5",
+        "accessionYear": "1982",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/257744.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/257744.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 164311,
+                "role": "Artist",
+                "name": "Jervis McEntee",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024287",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2580100",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Lake Como, May 3, 1869 (recto, from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Jervis McEntee",
+        "artistDisplayBio": "American, Rondout, New York 1828–1891 Rondout, New York",
+        "artistSuffix": "",
+        "artistAlphaSort": "McEntee, Jervis",
+        "artistNationality": "American",
+        "artistBeginDate": "1828",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q2580100",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500024287",
+        "objectDate": "1869",
+        "objectBeginDate": 1869,
+        "objectEndDate": 1869,
+        "medium": "Graphite, white gouache, on blue paper",
+        "dimensions": "4 1/2 x 9 in. (11.4 x 22.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 11.4,
+                    "Width": 22.86
+                }
+            }
+        ],
+        "creditLine": "Morris K. Jesup Fund, 1982",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/15506",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19925601",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "objectID": 13218,
+        "isHighlight": false,
+        "accessionNumber": "1970.121.42",
+        "accessionYear": "1970",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/193283.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/193283.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162723,
+                "role": "Artist",
+                "name": "James McNeill Whistler",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+                "gender": ""
+            }
+        ],
+        "department": "The American Wing",
+        "objectName": "Drawing",
+        "title": "Bust of Man (from Sketchbook)",
+        "culture": "American",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "James McNeill Whistler",
+        "artistDisplayBio": "American, Lowell, Massachusetts 1834–1903 London",
+        "artistSuffix": "",
+        "artistAlphaSort": "Whistler, James McNeill",
+        "artistNationality": "American",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "objectDate": "1854–55",
+        "objectBeginDate": 1854,
+        "objectEndDate": 1855,
+        "medium": "Brown ink on off-white wove paper",
+        "dimensions": "2 1/2 x 2 3/4 in. (6.4 x 7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 6.4,
+                    "Width": 6.985
+                }
+            }
+        ],
+        "creditLine": "Gift of Margaret C. Buell, Helen L. King, and Sybil A. Walk, 1970",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-04-06T04:41:04.967Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/13218",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    },
+    {
+        "message": "ObjectID not found"
+    }
+]
