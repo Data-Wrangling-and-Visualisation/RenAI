@@ -1,0 +1,55 @@
+# General
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node / React (inside react-renai or other potential JS folders)
+**/node_modules
+**/dist
+**/dist-ssr
+**/.npm
+**/*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+
+# Build artifacts (adjust if needed)
+build/
+*.out
+
+# Sensitive files (add any specific files like API keys if not using .env)
+# .env.*
+# secrets.txt
+
+# Large data files (Uncomment if you don't want to track processed data)
+# react-renai/processed/
+# processing-data/*.pt
+
+processed/
+json_data/
+# Ignore all files in the processed directory
