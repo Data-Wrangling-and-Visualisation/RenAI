@@ -6,31 +6,32 @@ import torch.nn.functional as F
 import cv2
 import numpy as np
 from PIL import Image
-from transformers import CLIPFeatureExtractor, CLIPModel
+from transformers import CLIPImageProcessor, CLIPModel
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 
-# ==== Папки ====
-image_dir = "images"
-embedding_dir = "embeddings"
-gradcam_dir = "gradcam"
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Using device: {device}")
 
-os.makedirs(embedding_dir, exist_ok=True)
-os.makedirs(gradcam_dir, exist_ok=True)
 
-# ==== Модели ====
-# CLIP
-clip_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
-clip_processor = CLIPFeatureExtractor.from_pretrained("openai/clip-vit-base-patch32")
+print("Loading CLIP model...")
+clip_processor = CLIPImageProcessor.from_pretrained("openai/clip-vit-base-patch32")
+clip_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32").to(device)
 clip_model.eval()
+print("CLIP model loaded.")
 
-# ResNet для Grad-CAM
-resnet = models.resnet50(pretrained=True)
+
+print("Loading ResNet model...")
+
+weights = models.ResNet50_Weights.IMAGENET1K_V1
+resnet = models.resnet50(weights=weights).to(device)
 resnet.eval()
 target_layer = resnet.layer4[-1]
+print("ResNet model loaded.")
 
-# Преобразования
+
 clip_transform = clip_processor
+
 resnet_transform = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.ToTensor(),
@@ -38,92 +39,120 @@ resnet_transform = transforms.Compose([
                          std=[0.229, 0.224, 0.225]),
 ])
 
-# Хуки для Grad-CAM
-activations = None
-gradients = None
 
-def forward_hook(module, input, output):
-    global activations
-    activations = output.detach()
+class GradCamHooks:
+    def __init__(self, model_layer):
+        self.activations = None
+        self.gradients = None
+        self.forward_hook_handle = model_layer.register_forward_hook(self.forward_hook)
+        self.backward_hook_handle = model_layer.register_backward_hook(self.backward_hook)
 
-def backward_hook(module, grad_input, grad_output):
-    global gradients
-    gradients = grad_output[0].detach()
+    def forward_hook(self, module, input, output):
+        self.activations = output.detach()
 
-target_layer.register_forward_hook(forward_hook)
-target_layer.register_backward_hook(backward_hook)
+    def backward_hook(self, module, grad_input, grad_output):
+        self.gradients = grad_output[0].detach()
 
-# --- Function used by API --- 
+    def release(self):
+        self.forward_hook_handle.remove()
+        self.backward_hook_handle.remove()
+        self.activations = None
+        self.gradients = None
+
+
 def calculate_gradcam(img_pil):
-    """Calculates Grad-CAM map for a given PIL image using ResNet50."""
-    # Ensure image is RGB
+    if img_pil is None:
+        print("Error: Received None image for Grad-CAM calculation.")
+        return None
+
     if img_pil.mode != 'RGB':
-        img_pil = img_pil.convert('RGB')
-        
-    input_tensor = resnet_transform(img_pil).unsqueeze(0)
-    output = resnet(input_tensor)
-    class_idx = output.argmax().item()
+        try:
+            img_pil = img_pil.convert('RGB')
+        except Exception as e:
+             print(f"Error converting image to RGB: {e}")
+             return None
 
-    resnet.zero_grad()
-    output[0, class_idx].backward()
+    input_tensor = resnet_transform(img_pil).unsqueeze(0).to(device)
 
-    # Ensure gradients and activations were captured
-    if gradients is None or activations is None:
-        raise RuntimeError("Hooks did not capture gradients or activations.")
+    grad_cam_hooks = GradCamHooks(target_layer)
 
-    weights = gradients.mean(dim=(2, 3), keepdim=True)
-    cam = (weights * activations).sum(dim=1).squeeze()
-    cam = torch.relu(cam)
-    
-    # Handle cases where cam might be all zeros after ReLU
-    max_val = torch.max(cam)
-    if max_val > 0:
-        cam = cam / max_val
-    else:
-        # Return a zero map or handle as an error case if appropriate
-        print("Warning: Grad-CAM map is all zeros.")
-        # Get spatial dimensions from activations
-        h, w = activations.shape[-2:]
-        return np.zeros((h, w), dtype=np.float32)
-        
-    return cam.numpy()
+    try:
+        output = resnet(input_tensor)
+        class_idx = output.argmax().item()
 
-# --- Batch processing script part (Consider moving to separate file) --- 
-# Обработка одного изображения (для скрипта)
-def process_image_script(img_path):
+        resnet.zero_grad()
+        output[0, class_idx].backward()
+
+        activations = grad_cam_hooks.activations
+        gradients = grad_cam_hooks.gradients
+
+        if gradients is None or activations is None:
+            print("Error: Hooks did not capture gradients or activations.")
+            return None
+        if gradients.shape[0] != 1 or activations.shape[0] != 1:
+             print(f"Warning: Unexpected batch size in hooks. Grads: {gradients.shape}, Acts: {activations.shape}")
+             if gradients.shape[0] > 0: gradients = gradients[0].unsqueeze(0)
+             if activations.shape[0] > 0: activations = activations[0].unsqueeze(0)
+             if gradients is None or activations is None or gradients.shape[0] != 1 or activations.shape[0] != 1 :
+                 print("Error: Could not resolve batch size issue in hooks.")
+                 return None
+
+
+        weights = gradients.mean(dim=(2, 3), keepdim=True)
+        cam = (weights * activations).sum(dim=1).squeeze(0)
+        cam = torch.relu(cam)
+        max_val = torch.max(cam)
+        if max_val > 1e-6:
+            cam = cam / max_val
+        else:
+            print("Warning: Grad-CAM map is near zero.")
+            h, w = cam.shape
+            return np.zeros((h, w), dtype=np.float32)
+
+        return cam.cpu().numpy()
+
+    except Exception as e:
+        print(f"Error during Grad-CAM calculation: {e}")
+        return None
+    finally:
+        grad_cam_hooks.release()
+
+
+def process_image_script(img_path, embedding_dir, gradcam_dir):
     filename = os.path.splitext(os.path.basename(img_path))[0]
 
-    # === Эмбеддинг CLIP ===
-    image_clip = Image.open(img_path).convert("RGB")
-    inputs = clip_processor(images=image_clip, return_tensors="pt")
-    with torch.no_grad():
-        image_features = clip_model.get_image_features(**inputs)
-    image_features = F.normalize(image_features, p=2, dim=-1)  # L2-нормализация
-    torch.save(image_features, f"{embedding_dir}/{filename}.pt")
+    try:
+        image_clip = Image.open(img_path).convert("RGB")
+        inputs = clip_transform(images=image_clip, return_tensors="pt").to(device)
+        with torch.no_grad():
+            image_features = clip_model.get_image_features(**inputs)
+        image_features = F.normalize(image_features, p=2, dim=-1)
+        torch.save(image_features.cpu(), f"{embedding_dir}/{filename}.pt")
+        image_resnet_pil = Image.open(img_path).convert("RGB")
+        cam_np = calculate_gradcam(image_resnet_pil)
 
-    # === Grad-CAM ===
-    image_resnet = Image.open(img_path).convert("RGB")
-    input_tensor = resnet_transform(image_resnet).unsqueeze(0)
-    output = resnet(input_tensor)
-    class_idx = output.argmax().item()
+        if cam_np is not None:
 
-    resnet.zero_grad()
-    output[0, class_idx].backward()
+             target_size = (224, 224)
+             cam_resized = cv2.resize(cam_np, target_size, interpolation=cv2.INTER_LINEAR)
 
-    weights = gradients.mean(dim=(2, 3), keepdim=True)
-    cam = (weights * activations).sum(dim=1).squeeze()
-    cam = torch.relu(cam)
-    cam = cam / cam.max()
-    cam = cam.numpy()
+             heatmap = cv2.applyColorMap(np.uint8(255 * cam_resized), cv2.COLORMAP_JET)
+             heatmap = cv2.cvtColor(heatmap, cv2.COLOR_BGR2RGB)
 
-    cam = cv2.resize(cam, (224, 224))
-    heatmap = cv2.applyColorMap(np.uint8(255 * cam), cv2.COLORMAP_JET)
-    img_np = np.array(image_resnet.resize((224, 224)))
-    superimposed_img = cv2.addWeighted(img_np, 0.5, heatmap, 0.5, 0)
-    cv2.imwrite(f"{gradcam_dir}/{filename}.jpg", superimposed_img[:, :, ::-1])  # BGR -> RGB
+             img_resized_pil = image_resnet_pil.resize(target_size)
+             img_np = np.array(img_resized_pil)
+             superimposed_img = cv2.addWeighted(img_np, 0.6, heatmap, 0.4, 0)
 
-# === Обработка всей папки (для скрипта) ===
-if __name__ == "__main__": # Only run batch processing if script is executed directly
+             cv2.imwrite(f"{gradcam_dir}/{filename}.jpg", cv2.cvtColor(superimposed_img, cv2.COLOR_RGB2BGR))
+        else:
+             print(f"Не удалось сгенерировать Grad-CAM для {filename}")
+
+
+    except Exception as e:
+        print(f"Ошибка при обработке {img_path} в скрипте: {e}")
+
+if __name__ == "__main__":
+    print("Starting batch processing...")
     image_dir = "images"
     embedding_dir = "embeddings"
     gradcam_dir = "gradcam"
@@ -131,8 +160,10 @@ if __name__ == "__main__": # Only run batch processing if script is executed dir
     os.makedirs(gradcam_dir, exist_ok=True)
 
     image_files = [f for f in os.listdir(image_dir) if f.lower().endswith((".jpg", ".png", ".jpeg"))]
+    print(f"Found {len(image_files)} images in '{image_dir}'.")
+
     for img_file in tqdm(image_files, desc="Processing images (Script)"):
-        try:
-            process_image_script(os.path.join(image_dir, img_file))
-        except Exception as e:
-            print(f"Ошибка при обработке {img_file} в скрипте: {e}")
+        img_full_path = os.path.join(image_dir, img_file)
+        process_image_script(img_full_path, embedding_dir, gradcam_dir)
+
+    print("Batch processing finished.")
