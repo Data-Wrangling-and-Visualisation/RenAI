@@ -72,7 +72,7 @@ The application follows a client-server architecture:
    cd RenAI
    ```
 
-1.1. **Run using bash: (Optional)**
+1.1. **Run using bash: (Preferable)**
    ```
    chmod +x start_renai.sh
    ./run_start.sh
