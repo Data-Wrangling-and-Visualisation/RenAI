@@ -5,7 +5,8 @@ ENV PYTHONUNBUFFERED 1     # Выводить логи Python сразу, без
 
 WORKDIR /app
 
-RUN apt-get update && apt-get install -y libgl1-mesa-glx && rm -rf /var/lib/apt/lists/*
+# Install necessary system libraries for OpenCV and other dependencies
+RUN apt-get update && apt-get install -y libgl1-mesa-glx libglib2.0-0 && rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt requirements.txt
 

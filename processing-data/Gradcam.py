@@ -6,7 +6,7 @@ import torch.nn.functional as F
 import cv2
 import numpy as np
 from PIL import Image
-from transformers import CLIPProcessor, CLIPModel
+from transformers import CLIPFeatureExtractor, CLIPModel
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 
@@ -21,7 +21,7 @@ os.makedirs(gradcam_dir, exist_ok=True)
 # ==== Модели ====
 # CLIP
 clip_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
-clip_processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
+clip_processor = CLIPFeatureExtractor.from_pretrained("openai/clip-vit-base-patch32")
 clip_model.eval()
 
 # ResNet для Grad-CAM
@@ -30,7 +30,7 @@ resnet.eval()
 target_layer = resnet.layer4[-1]
 
 # Преобразования
-clip_transform = clip_processor.feature_extractor
+clip_transform = clip_processor
 resnet_transform = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.ToTensor(),

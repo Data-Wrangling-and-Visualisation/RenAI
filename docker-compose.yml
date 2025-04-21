@@ -1,5 +1,3 @@
-
-
 services:
   frontend:
     build:
@@ -32,7 +30,12 @@ services:
       - ./server:/app 
       - ./server/data:/app/data 
       - ./processing-data:/app/processing-data 
+      - torch_cache:/root/.cache
     environment:
       - FLASK_ENV=development
       - FLASK_APP=api.py
       - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app:/app/processing-data
+
+volumes:
+  torch_cache:
