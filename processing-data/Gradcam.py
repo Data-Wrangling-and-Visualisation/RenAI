@@ -53,8 +53,44 @@ def backward_hook(module, grad_input, grad_output):
 target_layer.register_forward_hook(forward_hook)
 target_layer.register_backward_hook(backward_hook)
 
-# Обработка одного изображения
-def process_image(img_path):
+# --- Function used by API --- 
+def calculate_gradcam(img_pil):
+    """Calculates Grad-CAM map for a given PIL image using ResNet50."""
+    # Ensure image is RGB
+    if img_pil.mode != 'RGB':
+        img_pil = img_pil.convert('RGB')
+        
+    input_tensor = resnet_transform(img_pil).unsqueeze(0)
+    output = resnet(input_tensor)
+    class_idx = output.argmax().item()
+
+    resnet.zero_grad()
+    output[0, class_idx].backward()
+
+    # Ensure gradients and activations were captured
+    if gradients is None or activations is None:
+        raise RuntimeError("Hooks did not capture gradients or activations.")
+
+    weights = gradients.mean(dim=(2, 3), keepdim=True)
+    cam = (weights * activations).sum(dim=1).squeeze()
+    cam = torch.relu(cam)
+    
+    # Handle cases where cam might be all zeros after ReLU
+    max_val = torch.max(cam)
+    if max_val > 0:
+        cam = cam / max_val
+    else:
+        # Return a zero map or handle as an error case if appropriate
+        print("Warning: Grad-CAM map is all zeros.")
+        # Get spatial dimensions from activations
+        h, w = activations.shape[-2:]
+        return np.zeros((h, w), dtype=np.float32)
+        
+    return cam.numpy()
+
+# --- Batch processing script part (Consider moving to separate file) --- 
+# Обработка одного изображения (для скрипта)
+def process_image_script(img_path):
     filename = os.path.splitext(os.path.basename(img_path))[0]
 
     # === Эмбеддинг CLIP ===
@@ -86,11 +122,17 @@ def process_image(img_path):
     superimposed_img = cv2.addWeighted(img_np, 0.5, heatmap, 0.5, 0)
     cv2.imwrite(f"{gradcam_dir}/{filename}.jpg", superimposed_img[:, :, ::-1])  # BGR -> RGB
 
-# === Обработка всей папки ===
-image_files = [f for f in os.listdir(image_dir) if f.lower().endswith((".jpg", ".png", ".jpeg"))]
+# === Обработка всей папки (для скрипта) ===
+if __name__ == "__main__": # Only run batch processing if script is executed directly
+    image_dir = "images"
+    embedding_dir = "embeddings"
+    gradcam_dir = "gradcam"
+    os.makedirs(embedding_dir, exist_ok=True)
+    os.makedirs(gradcam_dir, exist_ok=True)
 
-for img_file in tqdm(image_files, desc="Processing images"):
-    try:
-        process_image(os.path.join(image_dir, img_file))
-    except Exception as e:
-        print(f"Ошибка при обработке {img_file}: {e}")
+    image_files = [f for f in os.listdir(image_dir) if f.lower().endswith((".jpg", ".png", ".jpeg"))]
+    for img_file in tqdm(image_files, desc="Processing images (Script)"):
+        try:
+            process_image_script(os.path.join(image_dir, img_file))
+        except Exception as e:
+            print(f"Ошибка при обработке {img_file} в скрипте: {e}")

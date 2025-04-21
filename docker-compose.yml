@@ -1,0 +1,38 @@
+
+
+services:
+  frontend:
+    build:
+      context: ./react-renai
+      dockerfile: Dockerfile.frontend
+    image: fllarp/renai-frontend:latest
+    container_name: renai_frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./react-renai:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - VITE_BACKEND_URL=http://backend:5000 
+    depends_on:
+      - backend
+    stdin_open: true
+    tty: true
+
+  backend:
+    build:
+      context: ./server
+      dockerfile: Dockerfile.backend
+    image: fllarp/renai-backend:latest
+    container_name: renai_backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./server:/app 
+      - ./server/data:/app/data 
+      - ./processing-data:/app/processing-data 
+    environment:
+      - FLASK_ENV=development
+      - FLASK_APP=api.py
+      - PYTHONUNBUFFERED=1

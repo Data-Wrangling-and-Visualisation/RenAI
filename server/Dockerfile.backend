@@ -1,0 +1,19 @@
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE 1 # Не создавать .pyc файлы
+ENV PYTHONUNBUFFERED 1     # Выводить логи Python сразу, без буферизации
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y libgl1-mesa-glx && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt requirements.txt
+
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+
+COPY . .
+
+EXPOSE 5000
+
+CMD ["python", "api.py"] 

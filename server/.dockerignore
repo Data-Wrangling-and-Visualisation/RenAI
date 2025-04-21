@@ -1,0 +1,32 @@
+# Git files
+.git
+.gitignore
+
+# Python virtual environment
+venv
+venv_py311
+.venv
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+api.log
+preprocess.log
+
+# Environment files
+.env*
+
+# Data directories (these will be mounted as volumes)
+# data/
+# embeddings/
+# gradcam/
+# attention/
+# uploaded_images/ 
